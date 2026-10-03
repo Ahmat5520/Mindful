@@ -1,0 +1,2 @@
+rootProject.name = "MindfulScreen"
+include ':app'
